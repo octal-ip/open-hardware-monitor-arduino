@@ -3,6 +3,7 @@ using System.Windows.Forms;
 
 namespace ohm_arduino_gui
 {
+
     static class Program
     {
         /// <summary>
