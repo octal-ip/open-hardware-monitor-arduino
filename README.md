@@ -1,7 +1,10 @@
 ## Open Hardware Monitor - Arduino
 
 Read CPU and GPU temperature readings, then display them as a scrolling graph on an STM32 Arduino TFT display.
+
 Full details and build instructions: https://hackaday.io/project/165236-windows-system-performance-display
+
+The full build in action: https://cdn.hackaday.io/files/1652367069457024/graph.gif
 
 -----
 
