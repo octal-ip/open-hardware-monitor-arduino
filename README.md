@@ -12,9 +12,9 @@ The full build in action: https://cdn.hackaday.io/files/1652367069457024/graph.g
 
 1. Visual Studio 2017 with latest update
 2. Windows 10 with .Net Framework 4.6.2
-3. Arduino with ILI9341 TFT display
-4. Official Arduino IDE
-5. STM32 hardware libraries for the Arduino IDE
+3. STM32 "blue pill" with ILI9341 TFT display
+4. Platform.io
+5. Bodmer's TFT_eSPI library: https://github.com/Bodmer/TFT_eSPI
 
 ### Usage
 
@@ -22,6 +22,8 @@ The full build in action: https://cdn.hackaday.io/files/1652367069457024/graph.g
 change the target platform of `OpenHardwareMonitorLib` to `.Net Framework 4.6.2`. Build this project (there is no need to build its GUI).
 2. Download this project.
 3. Compile and run.
+
+A pre-compiled version is availabe in the "binaries" folder.
 
 ### Credits
 
